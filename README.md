@@ -17,7 +17,7 @@
 <a href="https://codepen.io/muntasir-bootstrap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muntasir-bootstrap" height="30" width="40" /></a>
 <a href="https://twitter.com/muntasirm3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muntasirm3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muntasir-mahmud-aa4291278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muntasir-mahmud-aa4291278" height="30" width="40" /></a>
-<a href="https://instagram.com/muntasir___m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muntasir___m" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
