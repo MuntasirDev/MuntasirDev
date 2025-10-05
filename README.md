@@ -1,4 +1,6 @@
-![logo](https://github.com/MuntasirDev/MuntasirDev/blob/main/Muntasir%20Mahumd.jpg)
+<p align="center">
+  <img src="https://github.com/MuntasirDev/MuntasirDev/blob/main/Muntasir%20Mahumd.jpg" alt="logo" width="250" />
+</p>
 <h1 align="center">Hello , I'm Muntasir Mahmud</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
