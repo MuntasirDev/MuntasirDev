@@ -1,5 +1,7 @@
 <p align="center">
- <img src="https://github.com/MuntasirDev/MuntasirDev/blob/main/Muntasir%20Mahumd.jpg" alt="logo" width="400" style="border-radius: 10px;" />
+
+  <img src="https://github.com/MuntasirDev/MuntasirDev/blob/main/Muntasir%20Mahumd.jpg" alt="logo" width="1200" style="border-radius: 10px;" />
+</p>
 
 </p>
 <h1 align="center">Hello , I'm Muntasir Mahmud</h1>
