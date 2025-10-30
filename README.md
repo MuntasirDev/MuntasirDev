@@ -82,5 +82,5 @@ modern, responsive, and meaningful digital experiences.
 ---
 
 <p align="center">
-  🌙 *Minimalist. Product-Focused. Improving everyday.* ✨
+  🌙  Minimalist. Product-Focused. Improving everyday. ✨
 </p>
