@@ -58,12 +58,17 @@ modern, responsive, and meaningful digital experiences.
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Overview  
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=muntasirdev&show_icons=true&hide_border=true&theme=transparent" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirdev&hide_border=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muntasirdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirdev&hide_border=true&theme=transparent" />
 </p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirdev&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
 
 
 ---
