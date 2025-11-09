@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/k6P7P0fh/Linkedin-Coverpage.png" width="100%" style="border-radius: 14px;" />
+  <img src="https://i.postimg.cc/85mMC2Kv/muntasir-linkedin-cover.png" width="100%" style="border-radius: 14px;" />
 </p>
 
 <h1 align="center">
