@@ -58,17 +58,8 @@ modern, responsive, and meaningful digital experiences.
 
 ---
 
-### 📊 GitHub Overview  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntasirdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirdev&hide_border=true&theme=transparent" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirdev&layout=compact&hide_border=true&theme=transparent" width="400" />
-</p>
----
+📊 GitHub Overview
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MuntasirDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" width="400" /> <img src="https://streak-stats.demolab.com?user=MuntasirDev&hide_border=true&theme=transparent" width="400" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirDev&layout=compact&hide_border=true&theme=transparent" width="400" /> </p>
 
 ### 🎯 Vision
 
