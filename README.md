@@ -59,7 +59,42 @@ modern, responsive, and meaningful digital experiences.
 ---
 
 📊 GitHub Overview
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirDev&theme=2077" width="100%" />
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirDev&theme=github_dark" 
+    width="90%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=MuntasirDev&theme=dark&hide_border=true" 
+    width="400"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuntasirDev&theme=github_dark" 
+    width="350"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuntasirDev&theme=github_dark&utcOffset=6" 
+    width="350"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuntasirDev&theme=github_dark" 
+    width="350"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuntasirDev&theme=github_dark" 
+    width="350"
+  />
+</p>
+
 
 ### 🎯 Vision
 
