@@ -58,14 +58,24 @@ modern, responsive, and meaningful digital experiences.
 
 ---
 
-📊 GitHub Overview
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=MuntasirDev&theme=midnight&hide_border=true&border_radius=4.5&ring=004d99&fire=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff**&c=1**" 
-    alt="MuntasirDev's GitHub Streak"
-    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=MuntasirDev&show_icons=true&theme=dark&hide_border=true&title_color=4da6ff&text_color=ffffff&icon_color=4da6ff"
+    width="450"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirDev&layout=compact&theme=dark&hide_border=true&title_color=4da6ff&text_color=ffffff"
+    width="350"
+  />
+</p>
+
+
+
+
+
 
 
 ### 🎯 Vision
