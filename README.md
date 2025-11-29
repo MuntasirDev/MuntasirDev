@@ -61,37 +61,9 @@ modern, responsive, and meaningful digital experiences.
 📊 GitHub Overview
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirDev&theme=github_dark" 
-    width="90%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=MuntasirDev&theme=dark&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=MuntasirDev&theme=midnight&hide_border=true&border_radius=4.5&ring=004d99&fire=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff**&c=1**" 
+    alt="MuntasirDev's GitHub Streak"
     width="400"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuntasirDev&theme=github_dark" 
-    width="350"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuntasirDev&theme=github_dark&utcOffset=6" 
-    width="350"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuntasirDev&theme=github_dark" 
-    width="350"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuntasirDev&theme=github_dark" 
-    width="350"
   />
 </p>
 
