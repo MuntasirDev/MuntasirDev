@@ -1,93 +1,37 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.postimg.cc/85mMC2Kv/muntasir-linkedin-cover.png" width="100%" style="border-radius: 14px;" />
-</p>
+Muntasir Mahmud
+<p align="center"> <img src="https://i.postimg.cc/85mMC2Kv/muntasir-linkedin-cover.png" width="100%" style="border-radius: 14px;" /> </p> <h1 align="center" style="color:#4da6ff;">⚡ Muntasir Mahmud ⚡</h1> <h3 align="center" style="color:#9fc9ff;">MERN Stack Developer • JavaScript & React Enthusiast</h3> <p align="center"> <em style="color:#6ea8ff;">"MERN Stack Developer| Graphics Designer | Learner"</em> </p>
 
-<h1 align="center">
- Muntasir Mahmud  
-</h1>
+🌌 About Me
 
-<h3 align="center">
-  MERN Stack Developer • JavaScript & React Enthusiast
-</h3>
+🎓 B.Sc in CSE — IIUC
 
-<br/>
+💻 MERN-focused developer with an eye for UI precision
 
-<p align="center">
-  <em>"Crafting clean UI and building efficient, scalable web applications."</em>
-</p>
+⚡ Obsessed with JavaScript, React, Node.js, MongoDB
 
----
+⭐ Loves building things that feel smooth, modern, and scalable
 
-### 🌿 About Me
+📧 alimuntasir2001@gmail.com
 
-🎓 **B.Sc in Computer Science & Engineering (CSE)**  
-📍 **International Islamic University Chittagong (IIUC)** — *Batch 2023–2026*
+🌐 Tech Stack
+Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> </p>
+Backend & Database
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
+Programming
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp" /> </p>
+Tools & Others
+<p align="left"> <img src="https://sk
 
-I am a passionate **MERN Stack Developer** focused on building  
-modern, responsive, and meaningful digital experiences.
-
-✨ Love working with **JavaScript, React, Node.js & MongoDB**  
-🧠 Interested in UI engineering, backend logic & system design  
-🚀 Continuously learning & improving every day  
-📩 **Email:** alimuntasir2001@gmail.com  
-
----
-
-### 🛠️ Tech Stack
-
-#### **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-#### **Backend & Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-#### **Programming**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
-</p>
-
-#### **Tools & Others**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MuntasirDev&show_icons=true&theme=dark&hide_border=true&title_color=4da6ff&text_color=ffffff&icon_color=4da6ff"
-    width="450"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirDev&layout=compact&theme=dark&hide_border=true&title_color=4da6ff&text_color=ffffff"
-    width="350"
-  />
-</p>
+⚡ GitHub Streak 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=MuntasirDev&theme=dark&hide_border=true&ring=00b7ff&fire=00d9ff&currStreakLabel=00ccff&sideNums=ffffff&sideLabels=ffffff&dates=4da6ff" width="450" /> </p>
 
 
+### 🎯 Vision > 
 
+**To build scalable MERN applications with clean architecture and elegant design.** 
+- Modern Frontend Thinking 
+- Efficient Backend Logic 
+- Continuous Learning & Growth --- 
 
-
-
-
-### 🎯 Vision
-
-> **To build scalable MERN applications with clean architecture and elegant design.**
-
-- Modern Frontend Thinking  
-- Efficient Backend Logic  
-- Continuous Learning & Growth  
-
----
-
-<p align="center">
-  🌙  Minimalist. Product-Focused. Improving everyday. ✨
-</p>
+<p align="center">  Minimalist. Product-Focused. Improving everyday.  </p>
