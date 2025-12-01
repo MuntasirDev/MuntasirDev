@@ -20,8 +20,7 @@ Backend & Database
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
 Programming
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp" /> </p>
-Tools & Others
-<p align="left"> <img src="https://sk
+
 
 ⚡ GitHub Streak 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=MuntasirDev&theme=dark&hide_border=true&ring=00b7ff&fire=00d9ff&currStreakLabel=00ccff&sideNums=ffffff&sideLabels=ffffff&dates=4da6ff" width="450" /> </p>
