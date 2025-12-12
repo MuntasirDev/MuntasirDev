@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.postimg.cc/85mMC2Kv/muntasir-linkedin-cover.png" width="100%" style="border-radius: 14px;" alt="Muntasir Mahmud Cover Image"/>
+  <img src="muntasir linkedin cover.png" width="100%" style="border-radius: 14px;" alt="Muntasir Mahmud Cover Image"/>
 </p>
 
-<h1 align="center" style="color:#4da6ff;">⚡ Muntasir Mahmud ⚡</h1>
+<h1 align="center" style="color:#4da6ff;"> Muntasir Mahmud </h1>
 <h3 align="center" style="color:#9fc9ff;">Pursuing B.Sc in CSE at IIUC</h3>
 <p align="center">
   <em style="color:#6ea8ff;">"MERN Stack Developer | Graphics Designer | Lifelong Learner"</em>
