@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muntasir-WSX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b7ff&icon_color=00d9ff&text_color=ffffff" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b7ff&text_color=ffffff" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir-WSX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b7ff&text_color=ffffff" width="48%" alt="Top Languages"/>
 </p>
 
 ---
