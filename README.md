@@ -13,13 +13,9 @@
 ## 🌌 About Me
 
 🎓 B.Sc in CSE — IIUC  
-
 💻 MERN-focused developer with an eye for clean UI/UX  
-
 ⚡ Obsessed with JavaScript, React, Node.js, MongoDB  
-
 ⭐ Loves building smooth, modern, and scalable apps  
-
 📧 alimuntasir2001@gmail.com  
 
 ---
@@ -43,14 +39,25 @@
 
 ---
 
-## ⚡ GitHub Streak
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuntasirDev&theme=dark&hide_border=true&ring=00b7ff&fire=00d9ff&currStreakLabel=00ccff&sideNums=ffffff&sideLabels=ffffff&dates=4da6ff" width="450" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muntasir-WSX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b7ff&icon_color=00d9ff&text_color=ffffff" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b7ff&text_color=ffffff" width="48%" alt="Top Languages"/>
+</p>
+
+---
+
+## ⚡ GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muntasir-WSX&theme=dark&hide_border=true&ring=00b7ff&fire=00d9ff&currStreakLabel=00ccff&sideNums=ffffff&sideLabels=ffffff&dates=4da6ff" width="450" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🎯 Vision
+
 **To build scalable MERN applications with clean architecture and elegant design.**
 
 - Modern frontend thinking  
